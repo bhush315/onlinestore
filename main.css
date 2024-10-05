@@ -127,7 +127,7 @@ main{
 
 
 .box {
-    height: 40vh; 
+    height: 320px; 
     width: 100%; 
     margin: 0 auto; 
     box-shadow: 2px 2px 4px rgba(51, 51, 51, 0.3); 
@@ -371,11 +371,7 @@ main{
         height: 450px; 
     }
 
-    .box {
-        height: 54vh; 
-        width: 100%; 
-
-    }
+    
 }
 
 @media (max-width: 480px) {
